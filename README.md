@@ -1,4 +1,11 @@
-# 文件结构
+# 说明
+
+项目对应博客：
+
+1. https://www.cnblogs.com/zbh0/p/15989422.html
+2. https://zhuanlan.zhihu.com/p/478732443
+
+项目文件结构如下：
 
 - code：代码文件夹，内层嵌套文件夹`  ./code/core  `放置核心代码、`  ./code/visualize  `放置可视化代码
 - display：报告中插图所在文件夹
